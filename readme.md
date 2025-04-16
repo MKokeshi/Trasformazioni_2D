@@ -8,18 +8,10 @@ This project demonstrates 2D transformations applied to boxes, showcasing variou
 
 Check out the live demo here: [Boxes Transformation](https://mkokeshi.github.io/Trasformazioni_2D/)
 
-## 🚀 Features
-
-- 🔄 Rotate boxes
-- 📏 Scale boxes
-- ➡️ Translate boxes
-- 🎯 Combine transformations
-
-## 📂 Project Structure
 
 - `index.html` - Main HTML file
 - `style.css` - Styling for the boxes
-- `script.js` - JavaScript for transformations
+
 
 ## 🛠️ How to Use
 
