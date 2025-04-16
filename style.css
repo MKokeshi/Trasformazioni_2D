@@ -1,0 +1,27 @@
+.box1{
+    background-color: rgb(17, 231, 56);
+    color: black;
+    font-family: Arial, sans-serif;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    transform: translate(30px,10px);
+}
+.box2{
+  background-color: rgb(20, 111, 154);
+  color: black;
+  font-family: Arial, sans-serif;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  transform: rotate(30deg);
+}
+.box3{
+  background-color: rgb(247, 247, 15);
+  color: black;
+  font-family: Arial, sans-serif;
+  width: 100px;
+  height: 100px;
+  padding:10px;
+  transform: skew(10deg,10deg);
+}
